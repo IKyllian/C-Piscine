@@ -1,0 +1,5 @@
+Credentials cache: API:6EE6DE64-DDA3-43CB-BE41-B9D3129A5505
+        Principal: kdelport@42LYON.FR
+
+  Issued                Expires               Principal
+Oct  5 12:28:11 2020  Oct  6 12:28:11 2020  krbtgt/42LYON.FR@42LYON.FR
